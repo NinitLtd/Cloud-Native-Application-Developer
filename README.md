@@ -246,9 +246,9 @@
 
 ----
 #### About Instructor :
-##### Nilesh Barot : DevOps and Cloud Consultant
+##### Nilesh Barot :
 
-___________Nilesh is a DevOps practitioner with over 2 decades of experience in various industries along with in-depth understanding of complex IT environments. In recent years he has successfully delivered projects by adopting and following DevOps processes.________
+___________Nilesh is an open-source enthusiast with over 2+ decades of experience. He is pationate about learning and adopting new ways of building solutions. In recent years he has successfully delivered projects by adopting and following Continuous Integration and Delivery processes.________
 
 Professional Qualifications: https://www.credly.com/users/nilesh-barot/badges
 
