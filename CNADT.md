@@ -252,7 +252,7 @@ ___________Nilesh is an open-source enthusiast with over 2+ decades of experienc
 
 Professional Qualifications: https://www.credly.com/users/nilesh-barot/badges
 
-Linked in profile : https://uk.linkedin.com/in/nileshbarot
+Linked in profile : https://uk.linkedin.com/in/nileshbarot 
 #kubernetes #k8s #cncf #golang
 
 ### Duration of the course : 3 - 4 Months
